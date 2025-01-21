@@ -68,12 +68,12 @@ For more information check out the [tsconfig.json][2] and [package.json][3] docu
 [1]: https://github.com/anandmindfire/Typescript-Starter/archive/master.zip - Download the starter project as a ZIP file.  
 [2]: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html - Official TypeScript documentation for `tsconfig.json`.  
 [3]: https://docs.npmjs.com/files/package.json - Official NPM documentation for `package.json`.  
-[4]: https://insanitydesign.com - Insanity Design, a resource for web development tools.  
+[4]: https://dribbble.com/ - Dribble, a resource full of web designs.  
 [5]: https://sass-lang.com/documentation - Official Sass documentation.  
 [6]: https://browsersync.io/docs - BrowserSync documentation for live reload and synchronized testing.  
 [7]: https://www.npmjs.com/package/npm-run-all - NPM package for running multiple scripts in parallel or sequentially.  
-[8]: https://onchange.js.org - Official documentation for `onchange`, a file-watching utility.  
-[9]: https://copyfiles.insanity.design - Copyfiles package documentation for copying files during build.  
+[8]: https://www.npmjs.com/package/onchange - Official npm documentation for `onchange`, a file-watching utility.  
+[9]: https://www.npmjs.com/package/copyfiles - Copyfiles package npm documentation for copying files during build.  
 [10]: https://developer.mozilla.org/en-US/docs/Web/HTML - MDN Web Docs for HTML reference.  
 [11]: https://developer.mozilla.org/en-US/docs/Web/JavaScript - MDN Web Docs for JavaScript reference.  
 [12]: https://developer.mozilla.org/en-US/docs/Web/CSS - MDN Web Docs for CSS reference.  
